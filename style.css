@@ -28,6 +28,7 @@ h1{
   
 }
 #details div{
+  width: 25%;
   float: left;
   background: #444054;
 }
