@@ -25,8 +25,8 @@ h1{
 }
 #details{
   display: block;
-  background: #444054;
+  
 }
 #details div{
-  float: left;
+  float: left;background: #444054;
 }
