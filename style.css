@@ -27,3 +27,6 @@ h1{
   display: block;
   background: #444054;
 }
+#details div{
+  float: left;
+}
